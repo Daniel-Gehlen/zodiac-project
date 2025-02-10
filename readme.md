@@ -4,6 +4,8 @@
 
 Este projeto visa desenvolver uma aplicação web que permite ao usuário descobrir seu signo do zodíaco com base na data de nascimento. A aplicação utiliza HTML, CSS, JavaScript, PHP e Bootstrap para criar uma interface amigável e responsiva.
 
+![](./assets/imgs/zodiac-project.png)
+
 ## Métodos
 
 ### Estrutura do Projeto

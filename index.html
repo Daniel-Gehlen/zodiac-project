@@ -11,13 +11,14 @@
     <?php include 'layouts/header.php'; ?>
     <div class="container">
         <h1 class="mt-5">Descubra seu Signo</h1>
-        <form id="signoForm" action="result.php" method="GET" class="mt-3">
+        <form id="signoForm" class="mt-3">
             <div class="form-group">
                 <label for="birthdate">Data de Nascimento:</label>
                 <input type="date" class="form-control" id="birthdate" name="birthdate" required>
             </div>
-            <button type="submit" class="btn btn-primary">Descobrir Signo</button>
+            <button type="button" class="btn btn-primary" id="checkSignoButton">Descobrir Signo</button>
         </form>
+        <div id="resultContainer" class="mt-3"></div>
     </div>
     <script src="assets/js/script.js"></script>
 </body>
