@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #343a40;
+}
+
+.card {
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 24px;
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 18px;
+    color: #6c757d;
+}

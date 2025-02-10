@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <id>aries</id>
+        <nome>Áries</nome>
+        <descricao>O signo de Áries é conhecido por sua energia e determinação.</descricao>
+    </signo>
+    <signo>
+        <id>touro</id>
+        <nome>Touro</nome>
+        <descricao>Touro é um signo estável e prático, conhecido por sua lealdade.</descricao>
+    </signo>
+    <signo>
+        <id>gemeos</id>
+        <nome>Gêmeos</nome>
+        <descricao>Gêmeos é um signo versátil e curioso, sempre em busca de novas experiências.</descricao>
+    </signo>
+    <signo>
+        <id>cancer</id>
+        <nome>Câncer</nome>
+        <descricao>Câncer é um signo emocional e intuitivo, conhecido por sua empatia.</descricao>
+    </signo>
+    <signo>
+        <id>leao</id>
+        <nome>Leão</nome>
+        <descricao>Leão é um signo criativo e extrovertido, que adora ser o centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <id>virgem</id>
+        <nome>Virgem</nome>
+        <descricao>Virgem é um signo analítico e prático, conhecido por sua atenção aos detalhes.</descricao>
+    </signo>
+    <signo>
+        <id>libra</id>
+        <nome>Libra</nome>
+        <descricao>Libra é um signo harmonioso e sociável, que valoriza o equilíbrio e a justiça.</descricao>
+    </signo>
+    <signo>
+        <id>escorpiao</id>
+        <nome>Escorpião</nome>
+        <descricao>Escorpião é um signo intenso e apaixonado, conhecido por sua determinação.</descricao>
+    </signo>
+    <signo>
+        <id>sagitario</id>
+        <nome>Sagitário</nome>
+        <descricao>Sagitário é um signo aventureiro e otimista, sempre em busca de novos horizontes.</descricao>
+    </signo>
+    <signo>
+        <id>capricornio</id>
+        <nome>Capricórnio</nome>
+        <descricao>Capricórnio é um signo responsável e ambicioso, conhecido por sua disciplina.</descricao>
+    </signo>
+    <signo>
+        <id>aquario</id>
+        <nome>Aquário</nome>
+        <descricao>Aquário é um signo independente e humanitário, sempre em busca de inovação.</descricao>
+    </signo>
+    <signo>
+        <id>peixes</id>
+        <nome>Peixes</nome>
+        <descricao>Peixes é um signo sensível e intuitivo, conhecido por sua empatia e criatividade.</descricao>
+    </signo>
+</signos>
